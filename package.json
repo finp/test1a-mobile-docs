@@ -1,0 +1,23 @@
+{
+  "name": "test1-mobile-docs",
+  "version": "1.0.0",
+  "description": "test mobile docs repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finp/test1-mobile-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finp/test1-mobile-docs/issues"
+  },
+  "homepage": "https://github.com/finp/test1-mobile-docs#readme",
+  "dependencies": {
+    "test1-push-docs": "git+ssh://git@github.com/finp/test1-push-docs.git#master",
+    "test1-sync-docs": "git+ssh://git@github.com/finp/test1-sync-docs.git#master"
+  }
+}
