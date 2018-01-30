@@ -1,3 +1,4 @@
+mkdir temp
 cd temp
 rm -rf *
 wget https://github.com/finp/test1-android-sdk-docs/archive/master.zip
