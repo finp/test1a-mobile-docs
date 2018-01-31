@@ -36,7 +36,7 @@ Topics:
     File: debugging_guide
 ---
 Name: Using AeroGear Push (latest)
-Dir: test1-push-docs-master
+Dir: test1-push-docs-master/user
 Topics:
   - Name: Overview
     File: overview
@@ -62,7 +62,7 @@ Topics:
     File: appendix
 ---
 Name: Using AeroGear Push (v1.0)
-Dir: test1-push-docs-1.0
+Dir: test1-push-docs-1.0/user
 Topics:
   - Name: Overview
     File: overview
