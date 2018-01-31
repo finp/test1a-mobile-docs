@@ -35,15 +35,58 @@ Topics:
   - Name: Debugging guide
     File: debugging_guide
 ---
-Name: Using AeroGear Push
-Dir: push
+Name: Using AeroGear Push (latest)
+Dir: test1-push-docs-master
 Topics:
-  - Name: Using Push 1.0
-    File: push1-0
-  - Name: Using Push 1.1
-    File: push1-1
-  - Name: Using Push 1.2
-    File: push1-1
+  - Name: Overview
+    File: overview
+  - Name: Install the UnifiedPush Server
+    File: server-installation
+  - Name: System Properties for the UnifiedPush Server
+    File: server-installation_properties
+  - Name: Cluster and Docker
+    File: server-installation_advanced
+  - Name: Openshift
+    File: openshift
+  - Name: Using the Admin UI
+    File: admin-ui
+  - Name: Debugging the UnifiedPush Server
+    File: ups-debugging
+  - Name: Integrating the UnifiedPush Server
+    File: integration
+  - Name: Database migration
+    File: migration
+  - Name: Next steps
+    File: next
+  - Name: Appendix
+    File: appendix
+---
+Name: Using AeroGear Push (v1.0)
+Dir: test1-push-docs-1.0
+Topics:
+  - Name: Overview
+    File: overview
+  - Name: Install the UnifiedPush Server
+    File: server-installation
+  - Name: System Properties for the UnifiedPush Server
+    File: server-installation_properties
+  - Name: Cluster and Docker
+    File: server-installation_advanced
+  - Name: Openshift
+    File: openshift
+  - Name: Using the Admin UI
+    File: admin-ui
+  - Name: Debugging the UnifiedPush Server
+    File: ups-debugging
+  - Name: Integrating the UnifiedPush Server
+    File: integration
+  - Name: Database migration
+    File: migration
+  - Name: Next steps
+    File: next
+  - Name: Appendix
+    File: appendix
+
 ---    
 Name: Using AeroGear Sync
 Dir: Sync
